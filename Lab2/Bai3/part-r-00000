@@ -1,0 +1,10 @@
+FACILITIES	-> Positive: 213, Negative: 211
+FOOD&DRINKS	-> Positive: 366, Negative: 277
+HOTEL	-> Positive: 2942, Negative: 341
+LOCATION	-> Positive: 843, Negative: 95
+ROOMS	-> Positive: 1904, Negative: 515
+ROOM_AMENITIES	-> Positive: 834, Negative: 403
+SERVICE	-> Positive: 1906, Negative: 266
+-----------------------------------------	
+[KẾT QUẢ] Khía cạnh TÍCH CỰC nhất:	HOTEL (2942 lượt)
+[KẾT QUẢ] Khía cạnh TIÊU CỰC nhất:	ROOMS (515 lượt)
